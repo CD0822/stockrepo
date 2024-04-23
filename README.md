@@ -1,1 +1,2 @@
 # stockrepo
+Only for practice.
